@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ubuntu/ANIOT/Prac4/cronometro/build/CMakeFiles/bootloader
+/home/ubuntu/ANIOT/Prac4/cronometro/build/CMakeFiles/bootloader.rule
+/home/ubuntu/ANIOT/Prac4/cronometro/build/CMakeFiles/bootloader-complete.rule
+/home/ubuntu/ANIOT/Prac4/cronometro/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ubuntu/ANIOT/Prac4/cronometro/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ubuntu/ANIOT/Prac4/cronometro/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ubuntu/ANIOT/Prac4/cronometro/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/ubuntu/ANIOT/Prac4/cronometro/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ubuntu/ANIOT/Prac4/cronometro/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ubuntu/ANIOT/Prac4/cronometro/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

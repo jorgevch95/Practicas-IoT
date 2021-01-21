@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../RPI2"
+		},
+		{
+			"name": "Prac2",
+			"path": "../../../../../../ANIOT/Prac2/Prac2"
+		},
+		{
+			"name": "espidf-get-started",
+			"path": "../../../../../../Documents/PlatformIO/Projects/espidf-get-started"
+		}
+	],
+	"settings": {}
+}

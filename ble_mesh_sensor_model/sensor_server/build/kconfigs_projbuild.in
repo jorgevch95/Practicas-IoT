@@ -1,0 +1,5 @@
+source "/home/ubuntu/esp-idf_ultima/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/ubuntu/esp-idf_ultima/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/ubuntu/esp-idf_ultima/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/ubuntu/esp-idf_ultima/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/ubuntu/RPI1/Prac5/ble_mesh_sensor_model/sensor_server/main/Kconfig.projbuild"

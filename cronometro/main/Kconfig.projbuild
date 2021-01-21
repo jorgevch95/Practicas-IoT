@@ -1,0 +1,13 @@
+menu "Example Configuration"
+
+    choice
+        prompt "Seleccione uno de los dos sensores para la función de Reset"
+        default SENSOR_HALL
+        config SENSOR_HALL
+            bool "Sensor_Hall"
+        config SENSOR_INFRA
+            bool "Sensor infrarojo"
+    endchoice
+        
+
+endmenu
